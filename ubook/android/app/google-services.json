@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760894219661",
+    "firebase_url": "https://ubook-5bf87-default-rtdb.firebaseio.com",
+    "project_id": "ubook-5bf87",
+    "storage_bucket": "ubook-5bf87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760894219661:android:ff797f241c09d9207509c4",
+        "android_client_info": {
+          "package_name": "com.afif.UBOOK"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760894219661-us5sq7qr2c049lt4r207vga7jqn88art.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2SCIiHtIu8HBoNUV9JzEjtAHHfwJWthg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760894219661-us5sq7qr2c049lt4r207vga7jqn88art.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
